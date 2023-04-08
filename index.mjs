@@ -1,0 +1,1 @@
+import face from 'face-recognition'; 

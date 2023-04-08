@@ -1,0 +1,14 @@
+{
+  "name": "john",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Rowan C",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "googlethis": "^1.7.1"
+  }
+}

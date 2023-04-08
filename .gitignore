@@ -1,0 +1,7 @@
+dlib
+dlib/*
+node_modules
+node_modules/*
+images
+images/*
+john.png
