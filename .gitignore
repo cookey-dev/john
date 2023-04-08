@@ -1,7 +1,12 @@
-dlib
-dlib/*
+# Node.js
 node_modules
 node_modules/*
+
+# dlib
+dlib_comp
+dlib_comp/*
+
+# John
 images
 images/*
 john.png
